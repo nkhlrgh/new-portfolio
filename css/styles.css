@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+:root {
+  --primary-color: gray;
+  --secondary-color: darkcyan;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.main-font-color {
+  color: var(--primary-color);
+}
+
+.secondary-font-color {
+  color: var(--secondary-color);
+}
+
+.custom-img-style {
+  border-radius: 50%;
+}
